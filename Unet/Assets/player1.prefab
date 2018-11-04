@@ -27,7 +27,7 @@ GameObject:
   - component: {fileID: 114197530625079958}
   - component: {fileID: 114906614896946166}
   m_Layer: 0
-  m_Name: player
+  m_Name: player1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -533,6 +533,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 614d0b98d1e3fdf4ea6496c630ef6bb4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  destoryOnDeath: 0
   currentHealth: 100
   healthSlider: {fileID: 114286286243925282}
 --- !u!114 &114908164660955556
